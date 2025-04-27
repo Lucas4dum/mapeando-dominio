@@ -6,21 +6,21 @@ Agora os principais casos de uso levantados da conversa:
 
 **Organizando o projeto**
 estoque-inteligente/
-├── docs/
-│   └── requisitos.md       # Documento com as entidades e casos de uso
-├── backend/
-│   ├── src/
-│   ├── tests/
-│   └── composer.json
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── docker/
-│   ├── docker-compose.yaml
-│   └── ...
-├── .env.example
-├── README.md
+<br>├── docs/
+<br>│   └── requisitos.md       # Documento com as entidades e casos de uso
+<br>├── backend/
+<br>│   ├── src/
+<br>│   ├── tests/
+<br>│   └── composer.json
+<br>├── frontend/
+<br>│   ├── src/
+<br>│   ├── public/
+<br>│   └── package.json
+<br>├── docker/
+<br>│   ├── docker-compose.yaml
+<br>│   └── ...
+<br>├── .env.example
+<br>├── README.md
 
 # Requisitos do Sistema de Gerenciamento de Estoque
 
